@@ -2500,7 +2500,7 @@ function makeTooltip($winName, $label, $word ) {
 
   $string .= $label;
   $string .= '</a>';
-  $string .= '<div class="tooltip\">';
+  $string .= '<div class="tooltip">';
   $string .= $word;
   $string .= '<span class="tooltiptext">';
   $string .= $label;
